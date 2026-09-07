@@ -23,7 +23,7 @@ This is *italic text*.
 
 ## Blockquote
 
-> If at first you don’t succeed, maybe don’t try skydiving.
+> If it’s a bad idea but makes a good story, I’m listening.
 
 ## Inline Code & Code Block
 
